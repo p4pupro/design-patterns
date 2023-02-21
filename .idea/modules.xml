@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapter/adapter.iml" filepath="$PROJECT_DIR$/adapter/adapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorador/decorador.iml" filepath="$PROJECT_DIR$/decorador/decorador.iml" />
+      <module fileurl="file://$PROJECT_DIR$/examen/examen.iml" filepath="$PROJECT_DIR$/examen/examen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoria_abstracta/factoria_abstracta.iml" filepath="$PROJECT_DIR$/factoria_abstracta/factoria_abstracta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factory_method/factory_method.iml" filepath="$PROJECT_DIR$/factory_method/factory_method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interprete/interprete.iml" filepath="$PROJECT_DIR$/interprete/interprete.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mvc/mvc.iml" filepath="$PROJECT_DIR$/mvc/mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orden/orden.iml" filepath="$PROJECT_DIR$/orden/orden.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rinconDeJava/rinconDeJava.iml" filepath="$PROJECT_DIR$/rinconDeJava/rinconDeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/workspace.iml" filepath="$PROJECT_DIR$/.idea/workspace.iml" />
+    </modules>
+  </component>
+</project>
